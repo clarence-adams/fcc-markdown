@@ -1,0 +1,71 @@
+h1 {
+  border-bottom: 2px solid black;
+  padding-bottom: 5px;
+}
+h2 {
+  border-bottom: 1px solid black;
+  padding-bottom: 5px;
+}
+textarea {
+  background-color:lightgrey;
+}
+code {
+  color: white;
+  background-color: black;
+  text-align: left;
+}
+pre {
+  color: white;
+  background-color: black;
+}
+blockquote p {
+  margin-left: 25px;
+  padding-left: 2px;
+  border-left: 5px solid black;
+}
+th {
+  border: 2px solid black;
+  padding: 0px 5px 0px 5px;
+  text-align: center;
+}
+td {
+  border: 2px solid black;
+  padding: 0px 5px 0px 5px;
+}
+.App {
+  background-color: slategray;
+  min-height: 100vh;
+  height: 100%;
+}
+.toolbar {
+  border: 2px solid black;
+  background-color: grey;
+  padding-left: 5px;
+  color: black;
+  font-weight: bold;
+  height: 3vh;
+}
+#editor-wrapper {
+  min-height: 25vh;
+  height: 25vh;
+  width: 50vw;
+  margin: 25px 10px 0px 10px;
+  box-shadow: 0px 0px 20px 1px;
+}
+#editor {
+  border: 2px solid black;
+  width: 100%;
+  min-height: 22vh;
+}
+#preview-wrapper {
+  box-shadow: 0px 0px 10px 1px;
+  width: 75vw;
+  min-height: 25vh;
+  margin: 25px 10px 20px 10px;
+}
+#preview {
+  background-color: lightgrey;
+  border: 2px solid black;
+  width: 100%;
+  padding: 5px;
+}
