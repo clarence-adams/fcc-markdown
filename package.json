@@ -16,7 +16,7 @@
     "react-dom": "^17.0.1",
     "react-scripts": "4.0.1",
     "web-vitals": "^0.2.4",
-    "homepage": "https://github.com/clarence-de-coder/fcc-markdown-preview"
+    "homepage": "https://github.com/clarence-de-coder/fcc-markdown-preview/tree/gh-pages"
   },
   "scripts": {
     "start": "react-scripts start",
